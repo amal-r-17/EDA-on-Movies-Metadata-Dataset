@@ -14,5 +14,5 @@ Here, from the dataset I have extracted data like,
 and many more.
 
 
-data: [Link](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset/code)
+data: [Link](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset)
 
